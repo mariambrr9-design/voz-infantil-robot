@@ -1,0 +1,4 @@
+flask
+TTS==0.22.0
+soundfile
+numpy
